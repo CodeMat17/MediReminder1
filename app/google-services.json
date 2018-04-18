@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931746823893",
+    "firebase_url": "https://medireminder-6e20b.firebaseio.com",
+    "project_id": "medireminder-6e20b",
+    "storage_bucket": "medireminder-6e20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931746823893:android:dd4023656a52d79d",
+        "android_client_info": {
+          "package_name": "com.example.android.medireminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931746823893-rqaac8aan1ovk5raes4rlj697vgfpstj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.medireminder",
+            "certificate_hash": "29415e5f609d8b2cbbdd4976ee9e07b6dd33ab29"
+          }
+        },
+        {
+          "client_id": "931746823893-jk3cnrso3oojld1j62tmc3c7rtoc7qu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-yfFzTVZRKsDF-ghXxPOkj1hoqdfkAng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931746823893-jk3cnrso3oojld1j62tmc3c7rtoc7qu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
